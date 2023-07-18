@@ -1,2 +1,2 @@
 # association-of-interest
-Investigative Reporting on Association of Interest or Note
+Investigative Reporting on Associations of Interest or Note
